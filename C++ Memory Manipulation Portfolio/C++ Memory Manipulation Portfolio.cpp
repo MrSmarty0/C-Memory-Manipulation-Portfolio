@@ -5,7 +5,7 @@
 #include <iostream>
 #include "SmartyMem.h"
 
-
+Memory SmartyMem;
 
 int main()
 {
